@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+}
+.container {
+    display: flex;
+}
+.container > div {
+    width: 20%;
+    padding: 1rem;
+    background-color: coral;
+    border-radius: 1rem;
+}
+.container >div:hover{
+    background-color: rgb(221,140,110);
+    cursor: grab;
+}
