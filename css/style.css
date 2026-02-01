@@ -7,7 +7,7 @@ body {
 .container > div {
     width: 20%;
     padding: 1rem;
-    background-color: coral;
+    background-color: rgb(236, 136, 100);
     border-radius: 1rem;
 }
 .container >div:hover{
