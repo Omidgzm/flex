@@ -14,3 +14,10 @@ body {
     background-color: rgb(221,140,110);
     cursor: grab;
 }
+.box2{
+    order: 1;
+}
+.box1 {
+    flex: 3;
+    flex-shrink: 3;
+}
